@@ -9,3 +9,14 @@ C:\!Dizox\Лаби\ЧНУ\2022 рік 1 семестр 2 курсу\ООП\Ла�
 C:\!Dizox\Лаби\ЧНУ\2022 рік 1 семестр 2 курсу\ООП\Лаба 5\Lab_5\Lab_5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\!Dizox\Лаби\ЧНУ\2022 рік 1 семестр 2 курсу\ООП\Лаба 5\Lab_5\Lab_5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\!Dizox\Лаби\ЧНУ\2022 рік 1 семестр 2 курсу\ООП\Лаба 5\Lab_5\Lab_5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_5_2022\Lab_5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_5_2022\Lab_5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_5_2022\Lab_5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_5_2022\Lab_5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_5_2022\Lab_5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_5_2022\Lab_5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_5_2022\Lab_5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_5_2022\Lab_5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_5_2022\Lab_5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_5_2022\Lab_5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_5_2022\Lab_5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

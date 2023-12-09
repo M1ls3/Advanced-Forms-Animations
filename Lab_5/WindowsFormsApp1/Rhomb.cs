@@ -37,7 +37,7 @@ namespace WindowsFormsApp1
         public override void DrawBlack(PictureBox pic, Bitmap bitmap)
         {
             Graphics gr = Graphics.FromImage(bitmap);  
-            gr.DrawLines(Pens.Black, GetCurrPoints());
+            gr.DrawLines(Pens.Black, GetCurrPoints()); 
             pic.Image = bitmap;
         }
         public override void HideDrawingBackGround(Bitmap bitmap)

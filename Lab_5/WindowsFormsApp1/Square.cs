@@ -23,7 +23,7 @@ namespace WindowsFormsApp1
             Pen pen = new Pen(Color.Black, 50);
             gr.DrawRectangle(pen, this.x - (this.side / 2), this.y - (this.side / 2), this.side, this.side);
             pic.Image = bitmap;
-        }
+        } 
         public override void HideDrawingBackGround(Bitmap bitmap)
         {
             Graphics gr = Graphics.FromImage(bitmap);
